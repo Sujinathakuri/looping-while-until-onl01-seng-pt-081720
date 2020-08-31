@@ -4,5 +4,6 @@ def using_until
     
 end
 
-until (condition) << run 
+until (condition) << run until condition is true 
+
 

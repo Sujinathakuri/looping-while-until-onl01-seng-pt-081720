@@ -4,5 +4,5 @@ def using_until
     
 end
 
-until (codition
+until (condition
 
